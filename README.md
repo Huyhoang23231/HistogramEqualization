@@ -54,3 +54,12 @@
 ## Lời Cảm Ơn
 
 Cảm ơn thầy Phan Hồ Viết Trường và Trường Đại học Văn Lang đã tạo điều kiện để nhóm 5BOYS chúng em thực hiện đồ án một cách suôn sẻ. Trong quá trình làm còn nhiều thiếu sót nhưng những lời góp ý và sự giúp đỡ của thầy, nhóm chúng em đã có thể hoàn thành đồ án một cách trọn vẹn.
+
+**Thành viên nhóm 5BOYS**
+|STT|Tên thành viên|MSSV|Nhiệm vụ|
+|---|--------------|----|--------|
+|1|Lê Đức Trung|207CT47990|Nhóm trưởng|
+|2|Tạ Huy Hoàng|207CT27868|Thành viên|
+|3|Vũ Thanh Phong|207CT40529|Thành viên|
+|4|Lê Đình Thiện|207CT28546|Thành viên|
+|5|Nguyễn Hữu Trường| 207CT65867|Thành viên|
