@@ -21,19 +21,24 @@
 )
 
 2. Người dùng nhấn vào nút **"Chọn tệp"** để tiến hành chọn hình và tải lên hình ảnh từ máy tính
-   ![Alt text](z4832498303593_7969d0bc38756734a161140b93ea092d.jpg)
+   ![z4832498303593_7969d0bc38756734a161140b93ea092d](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/d8abc498-bb63-4883-ac41-ae1615b1ca28)
+
 
 3. Khi tải lên hình ảnh xong người dùng nhấn vào nút **"Xử lý"** để hình ảnh có thể được xử lý và trả về kết quả
-   ![Alt text](<Bird - No Brightness-1.jpg>)
+   ![Bird - No Brightness](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/f0660769-37ed-45aa-a2d9-9c2f162aa15a)
+
 
 4. Người dùng có thể kéo thanh trượt để có thể tăng giảm độ sáng hoặc nhập vào giá trị (từ 0 - 100)
-   ![Alt text](<Bird - Brightness.jpg>)
+   ![Bird - Brightness](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/0bcdb87f-e0cc-49af-bf04-23b3477cc091)
+
 
 5. Người dùng có thể nhấn chuột phải vào hình ảnh hoặc biểu đồ chọn **"Lưu hình ảnh thành..."** để có thể tải về
    `Tải về hình ảnh`
-   ![Alt text](download.jpg)
+   ![download](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/6d9eb202-9ad1-453f-ba62-0f1d3b4eedec)
+
    `Tải về biểu đồ Histogram`
-   ![Alt text](download-chart.jpg)
+   ![download-chart](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/c3f7b7d3-b09f-497b-abfc-8b942b2ed9db)
+
 
 ## Cách ứng dụng Histogram Equalization xử lý ảnh
 
