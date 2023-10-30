@@ -16,7 +16,9 @@
 ## Giao diện ứng dụng Histogram Equalization và hướng dẫn sử dụng
 
 1. Giao diện khi người dùng bắt đầu truy cập ứng dụng
-   ![Alt text](z4830997592954_83ab8c56afd3c4124661586d05e88665.jpg)
+   ![z4830997592954_83ab8c56afd3c4124661586d05e88665](https://github.com/Huyhoang23231/HistogramEqualization/assets/96469499/c13700ae-637b-4b12-a069-1318f2f652bb)
+
+)
 
 2. Người dùng nhấn vào nút **"Chọn tệp"** để tiến hành chọn hình và tải lên hình ảnh từ máy tính
    ![Alt text](z4832498303593_7969d0bc38756734a161140b93ea092d.jpg)
